@@ -1,0 +1,138 @@
+{
+  "title": "TRABALHO DE CONCLUSÃO DE CURSO — TCC",
+  "subtitle": "Biomedicina — UFPR",
+  "course_code": "BMED019",
+  "repository_url": "https://acervodigital.ufpr.br/handle/1884/30071",
+  "repository_title": "Repositório Digital da UFPR — TCCs de Biomedicina",
+  "intro": "O Trabalho de Conclusão de Curso (TCC), vinculado à disciplina BMED019, é requisito obrigatório para a conclusão do bacharelado em Biomedicina. O trabalho pode ser realizado individualmente ou em dupla, ter caráter teórico ou prático e, quando necessário, contar com coorientação.",
+  "highlights": [
+    {
+      "label": "Disciplina",
+      "value": "BMED019"
+    },
+    {
+      "label": "Modalidade",
+      "value": "Individual ou em dupla"
+    },
+    {
+      "label": "Pesquisa",
+      "value": "Teórica ou prática"
+    },
+    {
+      "label": "Orientação",
+      "value": "Docente com vínculo ativo na UFPR"
+    }
+  ],
+  "flow": [
+    {
+      "step": "1",
+      "title": "Escolher tema e orientador",
+      "text": "O estudante deve estabelecer contato com docente da UFPR de área compatível com seu interesse."
+    },
+    {
+      "step": "2",
+      "title": "Formalizar a orientação",
+      "text": "O orientador entrega à Coordenação o termo de responsabilidade com anuência da Chefia do Departamento."
+    },
+    {
+      "step": "3",
+      "title": "Solicitar matrícula",
+      "text": "O estudante solicita matrícula pelo SIGA e entrega à Coordenação a documentação exigida."
+    },
+    {
+      "step": "4",
+      "title": "Desenvolver o TCC",
+      "text": "Projeto, cronograma, reuniões de orientação e desenvolvimento do trabalho conforme o regulamento e o plano de ensino."
+    },
+    {
+      "step": "5",
+      "title": "Apresentar à banca",
+      "text": "O TCC é submetido à apresentação e avaliação conforme os critérios estabelecidos no Regulamento BMED019."
+    },
+    {
+      "step": "6",
+      "title": "Realizar as correções",
+      "text": "Após a banca, o estudante realiza as alterações indicadas e encaminha a versão final ao orientador."
+    },
+    {
+      "step": "7",
+      "title": "Entregar a versão final",
+      "text": "A versão final aprovada deve ser enviada em PDF à Coordenação dentro do prazo definido no semestre."
+    },
+    {
+      "step": "8",
+      "title": "Publicação institucional",
+      "text": "A versão final é destinada ao Repositório Digital Institucional da UFPR."
+    }
+  ],
+  "enrollment": {
+    "title": "Matrícula e orientação",
+    "items": [
+      "O estudante deve procurar um professor da UFPR da área de interesse para orientação.",
+      "O professor orientador deve integrar o quadro docente ativo da UFPR.",
+      "O TCC pode ser realizado individualmente ou em dupla.",
+      "Quando necessário e em acordo com o orientador, poderá haver coorientador.",
+      "O estudante deve solicitar matrícula pelo SIGA e entregar a documentação exigida à Coordenação."
+    ]
+  },
+  "evaluation": {
+    "title": "Avaliação e defesa",
+    "items": [
+      "Os procedimentos e critérios de avaliação são definidos pelo Regulamento BMED019.",
+      "O estudante deve realizar defesa pública do Trabalho de Conclusão de Curso.",
+      "A banca utiliza a ficha de avaliação correspondente à disciplina.",
+      "Quando houver correções sugeridas pela banca, elas devem ser incorporadas antes da entrega da versão final."
+    ]
+  },
+  "final_delivery": {
+    "title": "Entrega final e Repositório Digital",
+    "items": [
+      "A versão final corrigida deve ser conferida pelo professor orientador.",
+      "O arquivo final deve ser encaminhado em formato PDF à Coordenação dentro do prazo estabelecido.",
+      "A Coordenação utiliza a versão final para inclusão no Repositório Digital Institucional da UFPR."
+    ],
+    "email": "biomedicina@ufpr.br"
+  },
+  "documents": [
+    {
+      "name": "Regulamento BMED019",
+      "description": "Regulamento oficial do Trabalho de Conclusão de Curso de Biomedicina.",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2022/02/REGULAMENTO-Bmed019.pdf",
+      "type": "Regulamento"
+    },
+    {
+      "name": "Declaração Orientador-Chefe",
+      "description": "Documento de formalização da orientação com anuência da Chefia do Departamento.",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2025/03/DECLARACAO-ORIENTADOR-CHEFE-atualizada.docx",
+      "type": "Formulário"
+    },
+    {
+      "name": "Formulários — Biomedicina",
+      "description": "Página oficial com ficha de avaliação da banca, declaração da versão final e demais formulários do TCC.",
+      "url": "https://bio.ufpr.br/biomedicina/formularios/",
+      "type": "Formulários"
+    },
+    {
+      "name": "Orientações de TCC",
+      "description": "Página institucional do Trabalho de Conclusão de Curso e orientações publicadas pela Coordenação.",
+      "url": "https://bio.ufpr.br/biomedicina/trabalho-de-conclusao/",
+      "type": "Orientações"
+    }
+  ],
+  "semester_guidance": {
+    "semester": "2026-2",
+    "title": "Orientações TCC — 2026-2",
+    "url": "",
+    "active": false,
+    "note": "A página institucional ainda apresenta orientações de 2025-1. Insira aqui o documento atualizado de 2026-2 quando estiver disponível."
+  },
+  "repository": {
+    "title": "Consulte os TCCs de Biomedicina",
+    "description": "O Repositório Digital da UFPR reúne trabalhos acadêmicos do Curso de Biomedicina. Utilize o acesso abaixo para consultar os trabalhos já disponibilizados institucionalmente.",
+    "url": "https://acervodigital.ufpr.br/handle/1884/30071"
+  },
+  "contact": {
+    "email": "biomedicina@ufpr.br",
+    "phone": "(41) 3361-1744"
+  }
+}
